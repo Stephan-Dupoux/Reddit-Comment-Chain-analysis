@@ -1,5 +1,7 @@
 import random
 import numpy as n
+import nltk
+nltk.download('all')
 random.seed(74)
 import pandas as p
 from scipy import spatial
