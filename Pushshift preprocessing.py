@@ -63,6 +63,7 @@ for line in reader.readlines():
                      'Score' : j['score'],
                      'created_utc' : j['created_utc']}
         Pushshift.append(pushshift)
+        wordss.append(j['body'].split())
 
 model = Word2Vec(wordss, size = 300, seed = 74)
 
