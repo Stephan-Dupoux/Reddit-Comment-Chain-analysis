@@ -68,7 +68,7 @@ punctuations = list('''!()-[]{};:'"\,<>./?@#$%^&*_~*''')
 sw.append(punctuations)
 
 
-tpath = '/Users/stephandupoux/OneDrive - Drexel University/BSAN 499/'
+tpath = 'BSAN 499/'
 
 second = []
 top = []
@@ -421,7 +421,7 @@ ml.boxplot(column=['one-two', 'one-three', 'one-four', 'one-five', 'one-six', 'o
 
 
 
-filename = '/Users/stephandupoux/OneDrive/Documents/GoogleNews-vectors-negative300.bin.gz'
+filename = 'GoogleNews-vectors-negative300.bin.gz'
 Gmodel = KeyedVectors.load_word2vec_format(filename, binary=True)
 
 
