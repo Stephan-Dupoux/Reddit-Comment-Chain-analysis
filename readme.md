@@ -1,6 +1,6 @@
-<img src="img/reddit0.jpg" width=385px />
 
-__Introduction to Conversational Threading Word2vec with__
+
+__Introduction to Conversational Threading Word2vec with Reddit Comment Chains__
 
 Parent Child \(Reddit Space\)	          OP\-Level  \(Reddit Space\)	                     Parent Child \(Google News\)                 OP\-Level  \(Google News\)
 
@@ -26,21 +26,6 @@ Word2Vec is an unsupervised learning model that takes words makes it a vector\.
 
 Google News Model is the base model
 
-<img src="img/reddit1.jpg" width=390px />
-
-<img src="img/reddit2.jpg" width=380px />
-
-<img src="img/reddit3.jpg" width=380px />
-
-<img src="img/reddit4.jpg" width=384px />
-
-<img src="img/reddit5.jpg" width=380px />
-
-<img src="img/reddit6.jpg" width=384px />
-
-<img src="img/reddit7.jpg" width=372px />
-
-<img src="img/reddit8.jpg" width=384px />
 
 Questions I hypothesized
 
@@ -50,13 +35,7 @@ Can you see based on conversations if a subreddit is poorly moderated
 
 Do different spaces affect the similarities between threads
 
-<img src="img/reddit9.jpg" width=384px />
 
-<img src="img/reddit10.jpg" width=380px />
-
-<img src="img/reddit11.jpg" width=380px />
-
-<img src="img/reddit12.jpg" width=384px />
 
 Reddit Dataset was kind of small\. Some subreddits are very small and didn’t have the required 8 comment chain
 
@@ -88,15 +67,8 @@ Top comment chain\, next level chain
 
 Parent reply down the chain
 
-Posted it on a violin plot
+Posted it on a violin plot (in img folder_
 
-<img src="img/reddit13.jpg" width=384px />
-
-<img src="img/reddit14.jpg" width=380px />
-
-<img src="img/reddit15.jpg" width=380px />
-
-<img src="img/reddit16.jpg" width=384px />
 
 Detecting when comments start veering off\-topics
 
@@ -105,20 +77,3 @@ Seeing when jokes come from the meaning of text
 Gaining meaning from the text
 
 Applications to help keep debates on topic
-
-<img src="img/reddit17.jpg" width=384px />
-
-<img src="img/reddit18.jpg" width=380px />
-
-<img src="img/reddit19.jpg" width=380px />
-
-<img src="img/reddit20.jpg" width=384px />
-
-<img src="img/reddit21.jpg" width=390px />
-
-<img src="img/reddit22.jpg" width=386px />
-
-<img src="img/reddit23.jpg" width=372px />
-
-<img src="img/reddit24.jpg" width=384px />
-
