@@ -1,8 +1,8 @@
-<img src="img/reddit0.tiff" width=385px />
+<img src="img/reddit0.jpg" width=385px />
 
 __Introduction to Conversational Threading Word2vec with__
 
-Parent Child \(R\)	          OP\-Level  \(R\)	                     Parent Child \(G\)                 OP\-Level  \(G\)
+Parent Child \(Reddit Space\)	          OP\-Level  \(Reddit Space\)	                     Parent Child \(Google News\)                 OP\-Level  \(Google News\)
 
 Word2Vec can detect a conversation when it is on discussion
 
@@ -26,23 +26,23 @@ Word2Vec is an unsupervised learning model that takes words makes it a vector\.
 
 Google News Model is the base model
 
-<img src="img/reddit1.tiff" width=390px />
+<img src="img/reddit1.jpg" width=390px />
 
-<img src="img/reddit2.tiff" width=380px />
+<img src="img/reddit2.jpg" width=380px />
 
-<img src="img/reddit3.tiff" width=380px />
+<img src="img/reddit3.jpg" width=380px />
 
-<img src="img/reddit4.tiff" width=384px />
+<img src="img/reddit4.jpg" width=384px />
 
-<img src="img/reddit5.tiff" width=380px />
+<img src="img/reddit5.jpg" width=380px />
 
-<img src="img/reddit6.tiff" width=384px />
+<img src="img/reddit6.jpg" width=384px />
 
-<img src="img/reddit7.tiff" width=372px />
+<img src="img/reddit7.jpg" width=372px />
 
-<img src="img/reddit8.tiff" width=384px />
+<img src="img/reddit8.jpg" width=384px />
 
-Questions to ask
+Questions I hypothesized
 
 Can machines effectively detect conversations and relate similarity between each other
 
@@ -50,13 +50,13 @@ Can you see based on conversations if a subreddit is poorly moderated
 
 Do different spaces affect the similarities between threads
 
-<img src="img/reddit9.tiff" width=384px />
+<img src="img/reddit9.jpg" width=384px />
 
-<img src="img/reddit10.tiff" width=380px />
+<img src="img/reddit10.jpg" width=380px />
 
-<img src="img/reddit11.tiff" width=380px />
+<img src="img/reddit11.jpg" width=380px />
 
-<img src="img/reddit12.tiff" width=384px />
+<img src="img/reddit12.jpg" width=384px />
 
 Reddit Dataset was kind of small\. Some subreddits are very small and didn’t have the required 8 comment chain
 
@@ -66,17 +66,19 @@ Questions to ask
 
 Gathered the top posts from six subreddits and took a comment chain of 8 from each post
 
-Unethical Life Pro Tips
 
 Coronavirus
 
 COVID19
 
+Unethical Life Pro Tips
+
+I Am A
+
 Machine Learning
 
 Learn Machine Learning
 
-I Am A
 
 Created a word2vec model with 6 million comments from November 2019
 
@@ -88,13 +90,13 @@ Parent reply down the chain
 
 Posted it on a violin plot
 
-<img src="img/reddit13.tiff" width=384px />
+<img src="img/reddit13.jpg" width=384px />
 
-<img src="img/reddit14.tiff" width=380px />
+<img src="img/reddit14.jpg" width=380px />
 
-<img src="img/reddit15.tiff" width=380px />
+<img src="img/reddit15.jpg" width=380px />
 
-<img src="img/reddit16.tiff" width=384px />
+<img src="img/reddit16.jpg" width=384px />
 
 Detecting when comments start veering off\-topics
 
@@ -104,19 +106,19 @@ Gaining meaning from the text
 
 Applications to help keep debates on topic
 
-<img src="img/reddit17.tiff" width=384px />
+<img src="img/reddit17.jpg" width=384px />
 
-<img src="img/reddit18.tiff" width=380px />
+<img src="img/reddit18.jpg" width=380px />
 
-<img src="img/reddit19.tiff" width=380px />
+<img src="img/reddit19.jpg" width=380px />
 
-<img src="img/reddit20.tiff" width=384px />
+<img src="img/reddit20.jpg" width=384px />
 
-<img src="img/reddit21.tiff" width=390px />
+<img src="img/reddit21.jpg" width=390px />
 
-<img src="img/reddit22.tiff" width=386px />
+<img src="img/reddit22.jpg" width=386px />
 
-<img src="img/reddit23.tiff" width=372px />
+<img src="img/reddit23.jpg" width=372px />
 
-<img src="img/reddit24.tiff" width=384px />
+<img src="img/reddit24.jpg" width=384px />
 
