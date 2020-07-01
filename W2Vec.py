@@ -332,10 +332,10 @@ q['e'] = childeight
 
 
 
-redmess = KeyedVectors.load_word2vec_format("/Users/stephandupoux/OneDrive - Drexel University/BSAN 499/Pushshift/Reddit nov 2019 6355290 words model.bin", binary=True)
+redmess = KeyedVectors.load_word2vec_format("Reddit nov 2019 6355290 words model.bin", binary=True)
 smokes = set(redmess.vocab)
 
-filename = '/Users/stephandupoux/OneDrive/Documents/GoogleNews-vectors-negative300.bin.gz'
+filename = 'GoogleNews-vectors-negative300.bin.gz'
 Gmodel = KeyedVectors.load_word2vec_format(filename, binary=True)
 smokes = set(Gmodel.vocab)
 
